@@ -48,4 +48,3 @@ Citybike customers break into one-time customers and the service subscribers, th
 
 - Next is a dashboard that shows how different metrics breakdown by gender.
 ![picture](images/5.png)
-![image](https://user-images.githubusercontent.com/47876684/119434552-6ea8fa80-bce6-11eb-8b17-bbd8d55b72ac.png)
