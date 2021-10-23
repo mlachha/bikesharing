@@ -1,4 +1,4 @@
-# bikesharing
+# bike-sharing
 
 ## Resources
 * Python 3.9.0, 
@@ -8,8 +8,8 @@
 
 ## Overview of Project
 
-Analyze CitiBike Rideshare data to uncover trends in costumer behavior. then visualize them using Tableau Public, in order to help implement the same bikeshare business module in Des Moines.
-You can view the Tableau Public workbook [here](https://public.tableau.com/profile/mouad.lachhab#!/vizhome/Citybikestory_16219086459090/BikeShareStory?publish=yes) .
+Analyze CityBike Rideshare data to uncover trends in customer behavior. then visualize them using Tableau Public to help implement the same bikeshare business module in Des Moines.
+You can view the Tableau Public workbook [here](https://public.tableau.com/profile/mouad.lachhab#!/vizhome/Citybikestory_16219086459090/BikeShareStory?publish=yes).
 
 ## Analysis and Challenges
 
@@ -26,7 +26,7 @@ You can view the Tableau Public workbook [here](https://public.tableau.com/profi
 
 Before doing any visualizations, we used Python and the Pandas library to clean the data. we did the changes in a Jupyter Notebook then exported the data to a new CSV file that was used to extract the data used to create the Vizs. -the ipynb file has been added to the repository-
 
-#### Data Visualizations :
+#### Data Visualizations:
 
 - these are some of visualizations created:
 
@@ -48,3 +48,4 @@ Citybike customers break into one-time customers and the service subscribers, th
 
 - Next is a dashboard that shows how different metrics breakdown by gender.
 ![picture](images/5.png)
+
